@@ -29,7 +29,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus", // (optional)
       "bio": "Johnny is the founder and commisioner of the league, and is curently going through certification by Guinness for the world record for most concurrent fantasy leagues involved in. Despite a rocky start to the year he is still convinced his team is primed to make a run at the playoffs, but unfortunately his fate is tied with that of the 49ers whose players comprise half of his roster.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/johnny.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -52,7 +52,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Maryland", // (optional)
       "bio": "PhD by day and fledgling Walter White (but for legal things) by night, Curran was one of 2 expansion teams added to the league in 2020. Last year's toilet bowl champion Curran is looking to make a run this year backed by an incredibly talented roster of inconsistent performers. Have a WR you like but can't find in the waivers? They are likely on his bench.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/curran.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -75,7 +75,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Cincinnati", // (optional)
       "bio": "Hailing from the Nasty 'Nati, Nate has been one of the most active managers in the league across the last 2 seasons. After much wheeling and dealing and touting a roster boasting only Lamar Jackson as a lone survivor from his original drafted team in 2018, Nate has positioned himself as a true contender this year.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/nate.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cin", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -98,7 +98,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus", // (optional)
       "bio": "Director/Entreprenuer/GM Andrew is the 2022 Shadynasty Co-Champion and undisputed trade leader over the last several seasons. Nobody on his roster is safe, and neither are you if he ever offers you a mixed drink he made personally.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/andy.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -121,7 +121,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus", // (optional)
       "bio": "The victim of numerous smear campaigns (defamation suits pending filing) Clint has crawled his way out of the F tier of the league and has cobbled together a roster that has a chance at the 2023 title if Josh Jacobs can start at QB and throw touchdowns to Davante Adams or Jakobi Meyers.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/clint.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2000, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -144,7 +144,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "ATL", // (optional)
       "bio": "The Lord of Crocking is a former champion of the 2018 campaign, but has fallen on rough times of late thanks to a rash of injuries and inconsistent QB play. Buoyed this year by 2 incredible young RBs and striking dynasty gold with his 2023 QB selection, Tinch's future is looking bright and has a chance to make a run for the playoffs this year ahead of schedule. ",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/tinch.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -167,7 +167,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Dallas", // (optional)
       "bio": "JB is a perrenial optimist when it comes to his favorite team, the Browns, and as such his commitment to the franchise has translated into his acquiring as many of their players as possible. Unfortunately, just like the real life Browns, these investments haven't panned out yet. In a surprising turn JB has decided to go young and build from the draft so perhaps 2024 and beyond will be different?",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/jb.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -190,7 +190,7 @@ export const managers = [
       "tookOver": REDACTED, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Parts Unknown", // (optional)
       "bio": "REDACTED",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/hayes.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": null, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -213,7 +213,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Toledo", // (optional)
       "bio": "Person of interest in several missing persons cases in NW Ohio, when Rego isn't trying to elude felony charges he enjoys golfing and spending time with his two dogs. 2022 co-champion of the league, he Will likely insult your mother if you offer him a trade as he negotiates like a FB Marketplace seller who "knows what he's got and won't accept lowball offers".",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/rego.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -236,7 +236,7 @@ export const managers = [
       "tookOver": 2023, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Columbus", // (optional)
       "bio": "Shadynasty's newest member, Evan acquired his team in 2023 2 years removed from an unlikely championship run. He is in the grips of a full rebuild at present but wants you to know he is willing to trade all of his quarterbacks. Seriously, he mentions it on every podcast he hosts.",
-      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/skizz.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "cle", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
