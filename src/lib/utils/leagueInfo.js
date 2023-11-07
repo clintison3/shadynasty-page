@@ -10,20 +10,7 @@ export const homepageText = `
   <p>Welcome to the official homepage of the Shadynasty dynasty league!</p>
   <p>For those of you who want yet another place to come to check for news and updates, as well as the archived links to the Shadynasty podcast, consider this your one stop shop for all your fantasy degeneracy needs.</p>
   <p>As always, keep sending any suggestions or ideas for things you want to see here and as long as I can Google how to do it and not exert any brainpower I might consider it! </p>
-  <p> Throwing Shade Playlist Link: <html>
-  <head></head>
-  <body>
-    <script>
-      var a = document.createElement('a');
-      var linkText = document.createTextNode("Link");
-      a.appendChild(linkText);
-      a.title = "Link";
-      a.href = "https://www.youtube.com/watch?v=bQqJfs7JenM&list=PLXOO3iby3uYJ_AA2H32KtqjAGdy1z0zGC&pp=gAQBiAQB";
-      document.body.appendChild(a);
-    </script>
-  </body>
-</html>
-</p>
+  <p> Throwing Shade Playlist Link:https://www.youtube.com/watch?v=bQqJfs7JenM&list=PLXOO3iby3uYJ_AA2H32KtqjAGdy1z0zGC&pp=gAQBiAQB </p>
 `;
 
 /*   STEP 3   */
